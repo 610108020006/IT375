@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/610108020006/IT375/issues"
   },
-  "homepage": "https://github.com/610108020006/IT375#readme"
+  "homepage": "https://github.com/610108020006/IT375#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
 }
